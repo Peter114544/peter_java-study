@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/java4/java4.iml" filepath="$PROJECT_DIR$/java4/java4.iml" />
       <module fileurl="file://$PROJECT_DIR$/java5/java5.iml" filepath="$PROJECT_DIR$/java5/java5.iml" />
       <module fileurl="file://$PROJECT_DIR$/java6/java6.iml" filepath="$PROJECT_DIR$/java6/java6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java7/java7.iml" filepath="$PROJECT_DIR$/java7/java7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/peter_java-study.iml" filepath="$PROJECT_DIR$/peter_java-study.iml" />
     </modules>
   </component>
